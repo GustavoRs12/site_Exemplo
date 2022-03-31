@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: green;
+}
+
+table,td,th {
+    border: 1px solid black;
+    border-spacing: 0;
+}
+
+table {
+    margin: 10px;
+}
+
+td,th {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    background-color: white;
+}
+ 
+th{
+    background-color: blue;
+    color:white;
+}
